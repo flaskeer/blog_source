@@ -1,0 +1,3 @@
+[submodule "themes/vexo"]
+	path = themes/vexo
+	url = https://github.com/flaskeer/hexo-theme-vexo.git
